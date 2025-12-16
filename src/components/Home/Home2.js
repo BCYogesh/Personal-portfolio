@@ -13,7 +13,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
+              I’m a Software Developer who loves transforming ideas into
               reliable, scalable products. Over time, I’ve explored several
               technologies and found my passion in building high-performance
               systems and intuitive user experiences.
@@ -21,29 +21,23 @@ function Home2() {
               <br />
               I’m proficient in
               <i>
-                <b className="purple">
-                  {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
-                </b>
+                <b className="purple"> JavaScript, React.js </b>
               </i>
               — and I enjoy working across both backend and frontend stacks.
               <br />
               <br />
               My key areas of interest include developing
               <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
+                <b className="purple"> Web Applications </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and exploring ways to connect secure, permanent data systems with
+              traditional web technologies.
               <br />
               <br />
               Whenever possible, I love building projects with
               <b className="purple"> Node.js </b> and modern frameworks like{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">React.js.</b>
               </i>
             </p>
           </Col>
